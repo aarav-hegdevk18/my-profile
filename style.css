@@ -1,0 +1,13 @@
+h2 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: larger;
+    font-weight: bold;
+    font-style: oblique;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
