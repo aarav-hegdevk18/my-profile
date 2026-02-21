@@ -9,5 +9,51 @@ body{
     background-color: black;
 }
 p{
-    color: white;
+    color: ;
+}
+h3{
+    color: blue;
+    font-style: oblique;
+}
+div{
+    padding: 10px;
+    margin: 10px;
+    
+}
+#about-me{
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: 2px dashed black;
+    
+}
+#my-city{
+    background-color: darkcyan;
+    border-radius: 15px;
+    border: 2px dashed gold;
+}
+#my-gallery{
+    background-color: khaki;
+    border-radius: 18px;
+    border: 2px dashed darkmagenta;
+
+}
+#my-favourite-book{
+    background-color: gold;
+    border-radius: 20px;
+    border: 2px dashed black;
+}
+#my-favourite-sport{
+    background-color: dodgerblue;
+    border-radius: 22px;
+    border: 2px dashed orange;
+}
+#my-message{
+    background-color: forestgreen;
+    border-radius: 24px;
+    border: 2px solid black;
+}
+#my-projects{
+    background-color: deepskyblue;
+    border-radius: 26px;
+    border: 2px dotted black;
 }
